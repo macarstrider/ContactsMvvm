@@ -47,6 +47,7 @@ namespace Contacts.Droid
 			global::MvvmCross.Binding.Droid.Resource.Styleable.MvxListView = global::Contacts.Droid.Resource.Styleable.MvxListView;
 			global::MvvmCross.Binding.Droid.Resource.Styleable.MvxListView_MvxDropDownItemTemplate = global::Contacts.Droid.Resource.Styleable.MvxListView_MvxDropDownItemTemplate;
 			global::MvvmCross.Binding.Droid.Resource.Styleable.MvxListView_MvxItemTemplate = global::Contacts.Droid.Resource.Styleable.MvxListView_MvxItemTemplate;
+			global::Splat.Resource.String.library_name = global::Contacts.Droid.Resource.String.library_name;
 		}
 		
 		public partial class Animation
@@ -2386,8 +2387,11 @@ namespace Contacts.Droid
 			// aapt resource value: 0x7f080012
 			public const int abc_toolbar_collapse_description = 2131230738;
 			
+			// aapt resource value: 0x7f080022
+			public const int app_name = 2131230754;
+			
 			// aapt resource value: 0x7f080021
-			public const int app_name = 2131230753;
+			public const int library_name = 2131230753;
 			
 			// aapt resource value: 0x7f080013
 			public const int search_menu_title = 2131230739;
