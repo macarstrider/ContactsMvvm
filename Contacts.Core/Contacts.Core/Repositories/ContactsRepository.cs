@@ -2,10 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 
-namespace Contacts.Core
+namespace Contacts.Core.Repositories
 {
-    public class Class1
+    class ContactsRepository
     {
     }
 }
